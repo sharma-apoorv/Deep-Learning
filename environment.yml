@@ -1,0 +1,20 @@
+name: data598
+channels:
+  - conda-forge
+  - pytorch
+dependencies:
+  - python=3.8
+  - numpy
+  - scipy
+  - pandas
+  - jupyter
+  - scikit-learn
+  - matplotlib 
+  - seaborn
+  - typing_extensions  # needed for pytorch
+  - pytorch=1.10
+  - torchvision=0.11
+  - cpuonly  # for pytorch: needed for Linux/Windows, not for Mac
+  - pip:
+      - palmerpenguins
+      - requests
