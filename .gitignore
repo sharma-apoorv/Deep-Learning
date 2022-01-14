@@ -1,2 +1,3 @@
 **/.ipynb_checkpoints/*.ipynb
 .vscode/settings.json
+**/Homework/1_MLP_SGD/data/*
