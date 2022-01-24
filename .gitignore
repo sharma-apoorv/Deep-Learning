@@ -1,3 +1,14 @@
 **/.ipynb_checkpoints/*.ipynb
 .vscode/settings.json
 **/Homework/1_MLP_SGD/data/*
+
+#Textbook folder
+**/Textbook/*
+
+# Data folder
+**/data/*
+
+#PDF's and HTML files in Labs and HW's
+**/Labs/*.pdf
+**/Homework/**/*.pdf
+**/Homework/**/*.html
